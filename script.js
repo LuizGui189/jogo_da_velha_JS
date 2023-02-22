@@ -16,7 +16,6 @@ let positions = [
 
 function init() {
   selected = [];
-
   currentPlayer.innerHTML = `JOGADOR DA VEZ: ${player}`;
 
   document.querySelectorAll(".game button").forEach((item) => {
