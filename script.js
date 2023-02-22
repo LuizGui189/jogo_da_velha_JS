@@ -13,7 +13,6 @@ let positions = [
   [1, 5, 9],
   [3, 5, 7],
 ];
-
 function init() {
   selected = [];
   currentPlayer.innerHTML = `JOGADOR DA VEZ: ${player}`;
